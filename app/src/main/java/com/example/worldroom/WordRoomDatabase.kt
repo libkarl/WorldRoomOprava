@@ -1,6 +1,6 @@
 package com.example.worldroom
 
-import WordDao
+
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
